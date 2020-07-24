@@ -13,4 +13,4 @@ After training on the synthtext dataset, input image to test.
 
 After finetuning on the ICDAR2015 dataset, we can get the final result.
 
-![](https://github.com/learnerforever97/CRAFT.pytorch/blob/master/part1/picture/pic4.jpg) ![](https://github.com/learnerforever97/CRAFT.pytorch/blob/master/part1/picture/pic5.jpg) ![](https://github.com/learnerforever97/CRAFT.pytorch/blob/master/part1/picture/pic6.jpg)
+![](https://github.com/learnerforever97/CRAFT.pytorch/blob/master/part1/picture/pic7.jpg) ![](https://github.com/learnerforever97/CRAFT.pytorch/blob/master/part1/picture/pic8.jpg) ![](https://github.com/learnerforever97/CRAFT.pytorch/blob/master/part1/picture/pic9.jpg)
